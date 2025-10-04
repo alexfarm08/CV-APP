@@ -1,0 +1,8 @@
+:root {
+    --back: hsl(0,0,0%);
+    --mid: hsl(0,0,5%);
+    --top: hsl(0,0,10%);
+
+    --sharp-text: hsl(0, 0, 95%);
+    --muted-text: hsl(0, 0, 70%);
+}
